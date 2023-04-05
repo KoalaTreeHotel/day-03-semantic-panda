@@ -2,6 +2,10 @@ body {
   background-color: rgb(241, 232, 232);
 }
 
+section {
+  margin: 30px 30px;
+}
+
 header {
   background-color: rgb(145, 157, 208);
   margin: 10px 10px;
@@ -21,11 +25,7 @@ footer {
   margin: 25px 20px;
 }
 
-section {
-  margin: 30px 30px;
-}
-
-
+/* floating image in section with the clearfix hack */
 .myimage {
   float: right;
   display: block;
