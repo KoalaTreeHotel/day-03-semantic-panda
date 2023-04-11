@@ -1,0 +1,4 @@
+-- Day 3 challenge
+I used quite a bit of CSS in this challenge.
+
+https://koalatreehotel.github.io/day-03-semantic-panda/
